@@ -14,7 +14,6 @@ Nape（menbou0202 氏の自作トラックボール）の公式 BallCase を土�
 
 - 支持ユニット版: `Nape-BallCase-34mm-stepped-BS10.stl / .step`
   （ファイル名の BS10 は旧称の名残。使うユニットは M-TU03SS）
-- Ø6 ベアリングボール支持版の STEP: `Nape-BallCase-34mm-stepped.step`
 - ボール入口は Ø33.95。逆さにしても抜けず、出し入れも軽いことを
   印刷で確認済み。
 
